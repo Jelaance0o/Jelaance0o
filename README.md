@@ -67,10 +67,6 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jelaance0o&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelaance0o&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Jelaance0o&theme=tokyonight&hide_border=true"/>
@@ -86,13 +82,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-```md
-Add this GitHub Action later to generate your contribution snake automatically.
-```
-
----
 
 > "Every commit is one step closer to mastery."
 
