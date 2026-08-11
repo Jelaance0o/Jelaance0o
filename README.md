@@ -65,15 +65,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Jelaance0o&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
