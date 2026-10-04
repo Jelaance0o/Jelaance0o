@@ -79,9 +79,6 @@
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
-  <a href="https://vite.dev/">
-    <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  </a>
   <a href="https://reactrouter.com/">
     <img src="https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   </a>
@@ -130,9 +127,6 @@
   <a href="https://lenis.darkroom.engineering/">
     <img src="https://img.shields.io/badge/LENIS-111111?style=for-the-badge"/>
   </a>
-  <a href="https://axios-http.com/">
-    <img src="https://img.shields.io/badge/AXIOS-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  </a>
 </p>
 
 ## 🔧 Developer Tools
@@ -146,9 +140,6 @@
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-  <a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
