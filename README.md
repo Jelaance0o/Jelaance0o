@@ -114,7 +114,3 @@ I enjoy working across the stack, exploring backend architecture, building APIs,
 <p align="center">
   <sub>BUILDING · LEARNING · IMPROVING</sub>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</p>
